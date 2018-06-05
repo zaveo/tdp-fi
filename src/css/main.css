@@ -1,0 +1,35 @@
+body {
+  height: 100%;
+  margin: 0;
+
+
+
+}
+#topnav{
+
+}
+#topnav.navbar {
+
+}
+#topnav .navbar-brand {
+  margin-right:20px;
+}
+
+.hero-home {
+  margin-top:0px;
+  padding:40px 0 60px 0;
+  background-image: url("/assets/bg.png");
+  background-position: -820px 0px;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 992px) {
+  .hero-home {
+    background-position: center;
+    background-image: url("/assets/bg.png");
+    margin-top:-100px;
+    padding:140px 0 60px 0;
+  }
+
+
+}
