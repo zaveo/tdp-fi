@@ -1,0 +1,11 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - "npm install"
+  build:
+    commands:
+      - "node build"
+      - "aws s3 sync ./build s3://tdp-dev.poimisto.com --delete --acl public-read --region eu-central-1"
+      
