@@ -7,5 +7,5 @@ phases:
   build:
     commands:
       - "node build"
-      - "aws s3 sync ./build s3://tdp-dev.poimisto.com --delete --acl public-read --region eu-central-1"
+      - "aws s3 sync ./public s3://tdp-prod.poimisto.com --delete --acl public-read --region eu-central-1"
       

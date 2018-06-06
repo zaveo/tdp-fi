@@ -1,0 +1,31 @@
+
+1. Palvelut
+1.1 Palvelusopimukset
+  - Startti
+  - Medium
+  - Kasvu
+1.2 Ylläpito
+  - etätuki
+  - lähituki
+  - laitteiden asennukset
+  - ohjelmistojen asennukset ja päivitykset
+  - virustorjunta
+  - varmuuskopiointi
+  - sisäverkkojen toteutus ja ylläpito
+  
+1.3 Asiantuntijapalvelut
+  - IT-järjestelmien kehitys
+  - 
+1.4 Sovellukset
+  - Office 365
+  - Google
+  - 
+1.5 Pilvipalvelut
+1.6 Integraatiot
+1.7 Koulutukset
+
+2. Laitetoimitukset
+
+2.1 IT-leasing
+
+3. Yritys

@@ -1,0 +1,1 @@
+aws s3 sync ./public s3://tdp-dev.poimisto.com --delete --acl public-read --region eu-central-1 --profile zaveo
